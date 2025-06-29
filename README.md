@@ -39,18 +39,4 @@ Identified PPE, D2, and spread1 as key predictive features
 📌 **Key Takeaways**
 This project demonstrates the ability of machine learning algorithms to aid in the early detection of Parkinson’s Disease using voice-based features. It showcases data preprocessing, feature engineering, classification, and interpretability of biomedical signals.
 
-📌 **Resume Bullet Points**
-Project Title: Parkinson's Disease Detection Using Voice-Based Features
-Tools: Python, scikit-learn, pandas, matplotlib, seaborn
 
-Developed a machine learning pipeline to classify Parkinson’s disease based on biomedical voice measurements, achieving 90%+ accuracy using Support Vector Machines.
-
-Engineered and analyzed features such as Harmonics-to-Noise Ratio, Nonlinear Dynamics (D2, RPDE, PPE) to detect motor disorders through voice patterns.
-
-Implemented preprocessing steps including standardization, outlier handling, and feature correlation to optimize model performance.
-
-Evaluated multiple models (Logistic Regression, Random Forest, KNN, SVM), tuning hyperparameters using GridSearchCV for optimal accuracy and interpretability.
-
-Visualized feature importance and confusion matrices to explain classification decisions to both technical and non-technical stakeholders.
-
-Demonstrated impact of voice signal analysis in healthcare AI applications, aligning data science skills with real-world biomedical problems.
